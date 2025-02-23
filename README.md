@@ -13,3 +13,5 @@ To build and run this project, ensure the following tools and libraries are inst
 - **Visual Studio** (latest version) for development and building the project.
 - **OpenCV Library** for handling image processing tasks (if required by your use case).
 - **EASendMail Library** for email-based communication between the client and server.
+
+Link to demo video of this project: https://drive.google.com/file/d/193K2zpFLowOAV2Fh0Tt4tFI2G9Iu_5id/view?usp=sharing
